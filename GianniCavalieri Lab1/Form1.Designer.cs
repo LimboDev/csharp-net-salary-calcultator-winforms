@@ -183,7 +183,7 @@
             this.Controls.Add(this.lbNombre);
             this.Controls.Add(this.lbTitulo);
             this.Name = "CalculadoraSalarioNeto";
-            this.Text = "Gianni Cavalieri 8-1067-1597";
+            this.Text = "Calculadora";
             this.ResumeLayout(false);
             this.PerformLayout();
 
